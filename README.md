@@ -20,8 +20,6 @@ The **Weather Dashboard** is an interactive Power BI report that provides real-t
 * **Weather API Dataset**
 * **Data Modeling & Visualization**
 
-## 📊 Dashboard Features
-
 ### Current Weather Information
 
 * Temperature
@@ -71,14 +69,6 @@ Weather Dashboard
 ├── Dashboard Screenshots
 └── README.md
 ```
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file.
-2. Open it using Power BI Desktop.
-3. Refresh the dataset if required.
-4. Use filters/slicers to explore weather data for different locations.
-5. Analyze weather and air quality metrics through interactive visualizations.
 
 ## 📸 Dashboard Highlights
 
